@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - refs/tags/@scope/*
+    tags:
+      - "@scope/**"
 
 jobs:
   build-docs:
