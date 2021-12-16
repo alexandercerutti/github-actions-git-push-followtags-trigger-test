@@ -12,3 +12,6 @@ jobs:
     steps:
       - name: Example logging
         run: echo "Mimmo"
+
+      - name: Print ref
+	run: echo ${{ github.ref }}
