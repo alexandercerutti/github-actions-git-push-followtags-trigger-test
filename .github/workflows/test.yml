@@ -7,6 +7,10 @@ on:
     tags:
       - "@scope/**"
 
+concurrency:
+  group: test-group-${{github.head_ref}}
+  cancel-in-progress: true
+
 jobs:
   build-docs:
     name: Build documentation on gh-pages branch
