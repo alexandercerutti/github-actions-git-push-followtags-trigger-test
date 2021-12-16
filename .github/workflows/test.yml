@@ -1,0 +1,16 @@
+name: Release docs
+
+on:
+  push:
+    branches:
+      - "refs/tags/@scope/**@*.*.*
+    tags:
+      - "@scope/**@*.*.*"
+
+jobs:
+  build-docs:
+    name: Build documentation on gh-pages branch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Example logging
+        run: echo "Mimmo"
