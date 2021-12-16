@@ -11,6 +11,7 @@ jobs:
   build-docs:
     name: Build documentation on gh-pages branch
     runs-on: ubuntu-latest
+    if: ${{ contains(github.ref, 'refs/tags/@scope/') }}
     steps:
       - name: Example logging
         run: echo "Mimmo"
