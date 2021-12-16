@@ -1,9 +1,9 @@
 name: Release docs
 
-on: push
-#  push:
-#    branches:
-#      - "refs/tags/@scope/**"
+on
+  push:
+    branches:
+      - refs/tags/@scope/**
 #    tags:
 #      - "@scope/**"
 
@@ -11,7 +11,7 @@ jobs:
   build-docs:
     name: Build documentation on gh-pages branch
     runs-on: ubuntu-latest
-    if: ${{ contains(github.ref, 'refs/tags/@scope/') }}
+#    if: ${{ contains(github.ref, 'refs/tags/@scope/') }}
     steps:
       - name: Example logging
         run: echo "Mimmo"
