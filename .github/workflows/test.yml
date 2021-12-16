@@ -1,6 +1,6 @@
 name: Release docs
 
-on
+on:
   push:
     branches:
       - refs/tags/@scope/**
