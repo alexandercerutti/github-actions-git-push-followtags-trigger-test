@@ -3,7 +3,7 @@ name: Release docs
 on:
   push:
     branches:
-      - "refs/tags/@scope/**"
+      - "refs/tags/@scope/**@*.*.*"
 
 jobs:
   build-docs:
