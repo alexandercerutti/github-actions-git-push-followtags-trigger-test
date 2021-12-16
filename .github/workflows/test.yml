@@ -2,8 +2,8 @@ name: Release docs
 
 on:
   push:
-    tags:
-      - "@scope/**"
+    branches:
+      - "refs/tags/@scope/**"
 
 jobs:
   build-docs:
