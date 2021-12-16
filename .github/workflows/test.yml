@@ -17,9 +17,9 @@ jobs:
     runs-on: ubuntu-latest
 #    if: ${{ contains(github.ref, 'refs/tags/@scope/') }}
     steps:
-      - name: Errorable command
-        run: exit 333
-        continue-on-error: true
+#      - name: Errorable command
+#        run: exit 333
+#        continue-on-error: true
 
       - name: Example logging
         run: echo "Mimmo"
