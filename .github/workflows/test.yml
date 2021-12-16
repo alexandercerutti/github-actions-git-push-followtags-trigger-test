@@ -16,4 +16,4 @@ jobs:
         run: echo "Mimmo"
 
       - name: Print ref
-        run: echo ${{ github.ref }}
+        run: echo ${{ github.ref }} ${{github.event_name}} ${{github.ref_name}} 
