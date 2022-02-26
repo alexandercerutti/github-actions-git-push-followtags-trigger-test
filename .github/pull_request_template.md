@@ -1,8 +1,4 @@
-<!--
-	Thank you for your contribution to the <project>. You'll be responded to as soon as possible (but I assure you will be responded!)
-
-	Meanwhile, if you still didn't do it yet, what about leaving a ⭐️ on the project? It would be very helpful!
--->
+<!-- Thank you for your contribution to the <project>. You'll be responded to as soon as possible (but I assure you will be responded). Meanwhile, if you still didn't do it yet, what about leaving a ⭐️ on the project? It would be very helpful! -->
 
 ## What is this improvement about?
 
