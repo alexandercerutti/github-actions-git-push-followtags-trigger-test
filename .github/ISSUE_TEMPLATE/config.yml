@@ -7,4 +7,4 @@ contact_links:
     url: https://bounty.github.com/
     about: Please report security vulnerabilities here.
   - name: Feature Request
-    url: "/discussions/new?category=ideas&title=[Feature Request]%20<!--%20Write Subject%20-->"
+    url: "https://github.com/alexandercerutti/github-actions-git-push-followtags-trigger-test/discussions/new?category=ideas&title=[Feature Request]%20<!--%20Write Subject%20-->"
