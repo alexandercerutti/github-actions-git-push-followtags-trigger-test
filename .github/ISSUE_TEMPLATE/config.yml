@@ -6,3 +6,5 @@ contact_links:
   - name: GitHub Security Bug Bounty
     url: https://bounty.github.com/
     about: Please report security vulnerabilities here.
+  - name: Feature Request
+    url: "/discussions/new?category=ideas&title=[Feature Request]%20<!--%20Write Subject%20-->"
