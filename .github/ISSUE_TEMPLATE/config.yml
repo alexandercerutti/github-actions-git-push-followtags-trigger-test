@@ -8,4 +8,4 @@ contact_links:
     about: Please report security vulnerabilities here.
   - name: Feature Request
     about: "Open a feature request in discussions"
-    url: https://github.com/alexandercerutti/github-actions-git-push-followtags-trigger-test/discussions/new?category=ideas&title=[Feature%20Request]%20<!--%20Write Subject%20-->
+    url: discussions/new?category=ideas&title=[Feature%20Request]%20<!--%20Write Subject%20-->
