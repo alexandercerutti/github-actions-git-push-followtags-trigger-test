@@ -1,13 +1,29 @@
-<!-- Thank you for your contribution to the <project>. You'll be responded to as soon as possible (but I assure you will be responded). Meanwhile, if you still didn't do it yet, what about leaving a ⭐️ on the project? It would be very helpful! -->
+<!--
+	Thank you for your contribution to passkit-generator.
+	You'll be responded to as soon as possible. (but I
+	assure you will be responded! 😉)
 
-## What is this improvement about?
+	Meanwhile, what about leaving a ⭐️ on the project? That
+	would be very helpful for making it even more known. 🔝
+-->
 
-<!-- Write here below a (short) description about what you are trying to improve -->
+## Description
 
-## Check the following relevant checkboxes
+<!--
+	Write here below a description about what you are trying to change.
+	Also include, if needed, any information about the platform you tested on.
+
+	If this pull request attempts to close an already opened issue, use issue
+	linkers identifiers like "Fixes", followed by the issue ID, to link it
+	automatically. See the identifiers at the following page:
+	https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
+-->
+
+## Check the relevant checkboxes
 
 - [ ] I've run tests (through `npm test`) and they passed
-- [ ] I've tried to generate a real-world Apple Wallet Passes after the change (also through examples, after installation and project building)
+- [ ] I've tried to generate a real-world Apple Wallet Passes after the change
+- [ ] Provided examples keep working after the change
 - [ ] This improvement is or might be a breaking change
 
 ## Relevant information
