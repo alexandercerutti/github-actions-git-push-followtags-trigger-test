@@ -1,40 +1,36 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: If you suspect you found a bug in passkit-generator, open a bug report. Thanks for helping passkit-generator improve!
 title: ""
-labels: ["bug", "enhancement"]
+labels: ["Needs Triage"]
 assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Description
 
-**To Reproduce**
-Steps to reproduce the behavior:
+<!-- Provide as much information as possible about the bug. Who reads is not in your head! :) -->
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Expected behavior
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Running operating system
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Running Node Version:
 
-**Desktop (please complete the following information):**
+## Steps to reproduce
 
-- OS: [e.g. iOS]
-- Browser [e.g. chrome, safari]
-- Version [e.g. 22]
+<!-- Create a list of steps, if any. -->
 
-**Smartphone (please complete the following information):**
+- Step 1
+- Step 2
+- Step 3
 
-- Device: [e.g. iPhone6]
-- OS: [e.g. iOS8.1]
-- Browser [e.g. stock browser, safari]
-- Version [e.g. 22]
+## Were you able to verify it by using and changing the examples?
 
-**Additional context**
-Add any other context about the problem here.
+<!-- Yes / No -->
+<!-- If no, it might be a problem of the application of yours -->
+
+## Other details
+
+- [ ] I'm available to open a Pull Request to resolve the problem (after the triage)
+
+<!-- Write here below whatever comes through your mind about the bug and passkit-generator -->
