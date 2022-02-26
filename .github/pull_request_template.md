@@ -1,11 +1,3 @@
----
-name: Improve project
-about: Propose directly an improvement, code or documentation or whatever you think might be fixed. For wiki updates, open an issue instead.
-title: ""
-labels: "Enhancement"
-assignees: ""
----
-
 <!--
 	Thank you for your contribution to the <project>. You'll be responded to as soon as possible (but I assure you will be responded!)
 
